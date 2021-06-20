@@ -31,3 +31,13 @@ Documents and notes related to Carbon Sequestration XPrize
 - Lithium orthosilicate for CO<sub>2</sub> capture with high regeneration capacity: Kinetic study and modeling of carbonation and decarbonation reactions - [PDF](pdfs\amorim2016.pdf)
 
     [Google Scholar](https://patents.google.com/scholar/1912447494705217866?scholar)
+    
+    
+    
+2021-06-20
+
+-Decided to start working on documentation due in february.
+
+-Need to start researching prior sequestration methods or investigate novel methods to improve on any chemical carbon removal methods.
+
+-Look to start reaching out to commercial options and professionals in the industry chemical, mechanical engineering etc.
