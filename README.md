@@ -41,3 +41,7 @@ Documents and notes related to Carbon Sequestration XPrize
 -Need to start researching prior sequestration methods or investigate novel methods to improve on any chemical carbon removal methods.
 
 -Look to start reaching out to commercial options and professionals in the industry chemical, mechanical engineering etc.
+
+-Decided to start writing a pitch for collab opportunities
+
+-Looking to set up a website for legitimacy
